@@ -1,4 +1,4 @@
-# Unfurned
+# Unfurned [IN DEVELOPMENT]
 
 Unfurned, Unity ile geliştirilmiş bir FPS oyunu prototipidir. Bu projede temel mekanikler, silah etkileşimleri, ateş etme sistemi ve düşman hareketleri bulunmaktadır.
 
