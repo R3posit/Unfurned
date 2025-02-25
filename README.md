@@ -25,15 +25,15 @@ Unfurned, Unity ile geliştirilmiş bir FPS oyunu prototipidir. Bu projede temel
 ```plaintext
 Unfurned/
 ├── Assets/
-│   ├── Scripts/            # Tüm C# scriptleri
+│   ├── Scripts/         
 │   │   ├── GunController.cs
 │   │   ├── WeaponInteraction.cs
 │   │   ├── EnemyHealth.cs
 │   │   ├── EnemyMovement.cs
 │   │   ├── PlayerController.cs
 │   │   └── PlayerHealth.cs
-│   ├── Prefabs/            # Tüm prefablardan oluşan dizin
-│   ├── Scenes/             # Unity sahneleri
-│   ├── Materials/          # Malzemeler
-│   └── Models/             # 3D modeller
-└── README.md               # Proje hakkında bilgi
+│   ├── Prefabs/           
+│   ├── Scenes/           
+│   ├── Materials/       
+│   └── Models/             
+└── README.md            
